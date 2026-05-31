@@ -3193,7 +3193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MELF_Handsoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3473,7 +3473,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 173.99 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4391,7 +4391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 76.2 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -5202,7 +5202,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33QQ 5% 1/8W"
+		(property "Value" "330Ω 5% 1/8W"
 			(at 254.762 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
